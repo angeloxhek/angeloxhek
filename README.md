@@ -26,7 +26,7 @@ I specialize in **low-level programming**, with a primary focus on **OSDev**. I 
 ### Main Projects:
 * **[AOS](https://github.com/angeloxhek/AOS)** *(Advanced Operating System)* — My custom Operating System built completely from scratch. Currently in active development.
 * **[KCL](https://github.com/angeloxhek/KCL)** — An unconventional Windows CrackMe. It wasn't written by standard reverse-engineering textbooks, so solving it won't be easy :) Currently in LTS (Long-Term Support).
-* **[AKernel](https://github.com/angeloxhek/AKernel)** — A specialized Android driver designed to interact directly with the kernel, bypassing standard APIs. The foundation is laid, early development stage.
+* **[AKernel](https://github.com/angeloxhek/AKernel)/[AKernel Manager](https://github.com/angeloxhek/AKernel-Manager)** — A specialized Android driver designed to interact directly with the kernel, bypassing standard APIs. The foundation is laid, early development stage.
 * **[akernel-spes](https://github.com/angeloxhek/akernel-spes)** — A custom kernel for *spes/spesn* (Redmi Note 11 / NFC) with integrated KernelSU-Next, SUSFS, and my custom [AKernel](https://github.com/angeloxhek/AKernel) driver.
 * **[HKCU Remover](https://github.com/angeloxhek/HKCU-Remover)** — A simple PoC script that deletes the `HKEY_CURRENT_USER` registry key. Mostly harmless, but definitely unpleasant.
 
@@ -57,7 +57,7 @@ I am fluent in both English and Russian.
 ### Мои основные проекты:
 * **[AOS](https://github.com/angeloxhek/AOS)** *(Advanced Operating System)* — Моя собственная ОС, написанная с нуля. Находится в активной разработке.
 * **[KCL](https://github.com/angeloxhek/KCL)** — Нестандартный CrackMe для Windows. Написан не по учебникам по реверс-инжинирингу, поэтому задача будет не из лёгких :) Находится в стадии долгосрочной поддержки (LTS).
-* **[AKernel](https://github.com/angeloxhek/AKernel)** — Специализированный драйвер для Android для прямого управления ядром в обход стандартного API. Заложен фундамент, ранняя стадия разработки.
+* **[AKernel](https://github.com/angeloxhek/AKernel)/[AKernel Manager](https://github.com/angeloxhek/AKernel-Manager)** — Специализированный драйвер для Android для прямого управления ядром в обход стандартного API. Заложен фундамент, ранняя стадия разработки.
 * **[akernel-spes](https://github.com/angeloxhek/akernel-spes)** — Кастомное ядро для *spes/spesn* (Redmi Note 11 / NFC) с интегрированными KernelSU-Next, SUSFS и моим драйвером [AKernel](https://github.com/angeloxhek/AKernel).
 * **[HKCU Remover](https://github.com/angeloxhek/HKCU-Remover)** — Простой скрипт для удаления раздела `HKEY_CURRENT_USER` из реестра. Относительно безобидно, но неприятно.
 
